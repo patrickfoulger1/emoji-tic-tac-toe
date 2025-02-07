@@ -1,4 +1,5 @@
 {
+  "homepage": "https://patrickfoulger1.github.io/emoji-tic-tac-toe/",
   "name": "emoji-tic-tac-toe",
   "private": true,
   "version": "0.0.0",
@@ -13,7 +14,8 @@
   },
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "serve": "^14.2.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
